@@ -1,6 +1,14 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Ensigna",
+  "name": "Ensigna escuela Online",
+  "description": "Ensigna es la aplicación numero 1 de educación Online en todo latinoamerica, ¿Que esperas para ser parte de esta?",
+  "background_color": "#ffffff",
+  "theme_color": "#ebf3ff",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest",
+  "scope": "./",
+  "lang": "es-MX",
   "icons": [
     {
       "src": "favicon.ico",
@@ -17,9 +25,6 @@
       "type": "image/png",
       "sizes": "512x512"
     }
-  ],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  ]
+  
 }
